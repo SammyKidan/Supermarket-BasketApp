@@ -62,7 +62,7 @@ test("If 5 plants added to the basket the expected discount value is (£)10", ()
    });
 
 
-   test("If 2 face masks are added to the basket the expected discount value is (£)1.30", () => {
+   test("If 9 face masks are added to the basket the expected discount value is (£)4", () => {
     const faceMasksOrder = {
         id: 1,
         name: "Face Mask",
