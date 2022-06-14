@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SammyKidan/Supermarket-Basket-App.git/static/css/main.8afe95e8.css",
+    "main.js": "/SammyKidan/Supermarket-Basket-App.git/static/js/main.64d0cef0.js",
+    "static/js/787.6a3e762c.chunk.js": "/SammyKidan/Supermarket-Basket-App.git/static/js/787.6a3e762c.chunk.js",
+    "index.html": "/SammyKidan/Supermarket-Basket-App.git/index.html",
+    "main.8afe95e8.css.map": "/SammyKidan/Supermarket-Basket-App.git/static/css/main.8afe95e8.css.map",
+    "main.64d0cef0.js.map": "/SammyKidan/Supermarket-Basket-App.git/static/js/main.64d0cef0.js.map",
+    "787.6a3e762c.chunk.js.map": "/SammyKidan/Supermarket-Basket-App.git/static/js/787.6a3e762c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8afe95e8.css",
+    "static/js/main.64d0cef0.js"
+  ]
+}

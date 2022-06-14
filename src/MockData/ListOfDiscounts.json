@@ -1,0 +1,17 @@
+[
+    {
+       "discountID":1321,
+       "discountForEvery":2,
+       "discountNumber":0.4 
+    },
+    {
+       "discountID":2233,
+       "discountForEvery":6,
+       "discountNumber":1 
+    },
+    {
+       "discountID":4253,
+       "discountForEvery":2,
+       "discountNumber":1 
+    }
+]
